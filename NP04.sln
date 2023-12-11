@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCP Client", "np04CA1\TCP Client.csproj", "{D698DDAF-E37D-40E3-9BA4-D308AFF7E0B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NP04TCP server", "NP04TCP server\NP04TCP server.csproj", "{52DD5B04-92DC-493C-86ED-9706650DCACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D698DDAF-E37D-40E3-9BA4-D308AFF7E0B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D698DDAF-E37D-40E3-9BA4-D308AFF7E0B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D698DDAF-E37D-40E3-9BA4-D308AFF7E0B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D698DDAF-E37D-40E3-9BA4-D308AFF7E0B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52DD5B04-92DC-493C-86ED-9706650DCACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52DD5B04-92DC-493C-86ED-9706650DCACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52DD5B04-92DC-493C-86ED-9706650DCACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52DD5B04-92DC-493C-86ED-9706650DCACC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF9E218F-C450-4220-ADB3-E0F4811856E2}
+	EndGlobalSection
+EndGlobal
